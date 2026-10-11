@@ -1,2 +1,2 @@
 # kind
-kind
+this is my project
